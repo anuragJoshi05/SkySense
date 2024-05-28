@@ -2,18 +2,36 @@
 
 Sky Sense is a Flutter project aimed at providing users with real-time weather updates and forecasts.
 
-## Getting Started
+## Overview
 
-This project serves as a starting point for developing a Flutter application focused on weather tracking and forecasting.
+SkySense provides a sleek and intuitive interface for users to stay updated with the latest weather conditions and forecasts. With real-time updates, detailed weather data, and a user-friendly design, SkySense is perfect for anyone who wants to keep track of the weather in their area.
+
+## Features
+
+- Real-time weather updates
+- Detailed weather information (temperature, humidity, wind speed, etc.)
+- User-friendly interface with a modern design
+- Location-based weather tracking
+- Supports multiple cities
+
+## Technologies Used
+
+- Flutter
+- Dart
+- OpenWeatherMap API
 
 ## Screenshots
 
-![Screenshot_2024-04-15-11-22-32-624_com example sky_sense](https://github.com/anuragJoshi05/SkySense/assets/148903459/90cb393b-e127-4a8e-9c0e-8c7bc9b5ea9c)
+<p align="center">
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/16a84b38-f280-41d4-8ffe-5b71ef716703" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/2282f056-bf0d-4568-b373-21b9c78f33b4" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/f825e87b-3578-4e28-b9a4-0bf80b66702b" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/13938483-2471-4419-badb-862a5b4133b5" alt="Screenshot 4" width="200"/>
+</p>
 
-![Screenshot_2024-04-15-11-23-37-795_com example sky_sense](https://github.com/anuragJoshi05/SkySense/assets/148903459/009b1369-4a0e-4423-9d6a-8027ca16be44)
+## Getting Started
 
-![Screenshot_2024-04-15-11-32-07-504_com example sky_sense](https://github.com/anuragJoshi05/SkySense/assets/148903459/d988f829-7c2b-4a17-9b20-6420ba3f77b6)
-
+This project serves as a starting point for developing a Flutter application focused on weather tracking and forecasting.
 
 ### Prerequisites
 
@@ -25,4 +43,19 @@ To run this Flutter project, you need to have Flutter installed. If this is your
 
 ```bash
 git clone https://github.com/your-username/sky_sense.git
+```
+2. Navigate to the project directory:
+```bash
+cd sky_sense
+```
+3. Install the dependencies:
+```bash
+flutter pub get
+```
+4. Run the application:
+```bash
+flutter run
+```
 
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
