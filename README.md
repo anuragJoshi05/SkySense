@@ -22,11 +22,11 @@ SkySense provides a sleek and intuitive interface for users to stay updated with
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/16a84b38-f280-41d4-8ffe-5b71ef716703" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/2282f056-bf0d-4568-b373-21b9c78f33b4" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/f825e87b-3578-4e28-b9a4-0bf80b66702b" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/13938483-2471-4419-badb-862a5b4133b5" alt="Screenshot 4" width="200"/>
+<p>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/8d45d7d4-1dcd-429d-9877-3671c3a63b0f" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/a0dd4944-898b-4ca2-92e0-f3a4ee949a5c" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/345e05e3-325d-4d49-a44c-3586016e2669" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/anuragJoshi05/SkySense/assets/148903459/28771a40-19e5-4751-a91e-bb3eb76c0f31" alt="Screenshot 4" width="200"/>
 </p>
 
 ## Getting Started
